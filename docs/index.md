@@ -4,7 +4,7 @@
 
 **Program:** BSc in CSE.
 
-**Team:** Sagar Biswas, Md. Faisal Bin Haque, Ayswarjo Sarkar, Sirazum Munira Munni, Sabrina Rahaman.
+**Team:** Sagar Biswas, (The project is not finalized yet. If it remains that way, I will proceed with it as a solo project in future).
 
 **Supervisor:** Md Sajid Hossain.
 

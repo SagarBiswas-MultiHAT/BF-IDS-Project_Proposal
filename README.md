@@ -6,7 +6,7 @@
 
 **Program:** BSc in CSE.
 
-**Team:** Sagar Biswas, Md. Faisal Bin Haque, Ayswarjo Sarkar, Sirazum Munira Munni, Sabrina Rahaman.
+**Team:** Sagar Biswas, (The project is not finalized yet. If it remains that way, I will proceed with it as a solo project in future).
 
 **Supervisor:** Md Sajid Hossain.
 
@@ -24,10 +24,6 @@
 [![Closed Issues](https://img.shields.io/github/issues-closed/SagarBiswas-MultiHAT/Raspi_Mini_IDS-Project_Proposal?label=closed%20issues)](https://github.com/SagarBiswas-MultiHAT/Raspi_Mini_IDS-Project_Proposal/issues?q=is%3Aissue%20state%3Aclosed)
 &nbsp;
 [![Docs](https://img.shields.io/badge/docs-github%20pages-blue)](https://sagarbiswas-multihat.github.io/Raspi_Mini_IDS-Project_Proposal/)
-<!-- &nbsp;
-[![Docker Pulls](https://img.shields.io/badge/docker%20pulls-publish%20to%20enable-lightgrey)](https://hub.docker.com/)
-&nbsp;
-[![Coverage](https://img.shields.io/badge/coverage-add%20tests%20%2B%20report-lightgrey)](https://about.codecov.io/) -->
 
 </div>
 
@@ -281,7 +277,7 @@ Why this is safe and neat:
 
 Below is the sequence diagram that details real-time packet processing, parallel detection, alerting, and the administrative control flow.
 
-![Mini-IDS sequence diagram](docs/assets/architecture-diagram.png)
+![Mini-IDS sequence diagram](docs/assets/sequence-diagram.png)
 
 ### Diagram Summary
 
