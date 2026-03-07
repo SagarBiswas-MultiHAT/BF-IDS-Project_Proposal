@@ -387,7 +387,7 @@ bf-ids/
 
 Below is the architecture diagram for BF-IDS. It shows the Raspberry Pi as the central node, the ESP32 satellite nodes, all processing modules, and how they connect together.
 
-![BF-IDS architecture diagram](docs/assets/architecture_diagram.png)
+![BF-IDS architecture diagram](assets/architecture_diagram.png)
 
 ### Diagram Summary
 
@@ -424,7 +424,7 @@ Think of the system like a security office that watches over a whole building wi
 
 This diagram shows what happens from the moment a packet arrives on the network until a detection decision is made.
 
-![BF-IDS sequence diagram part 1](docs/assets/sequence_diagram_part1.png)
+![BF-IDS sequence diagram part 1](assets/sequence_diagram_part1.png)
 
 ### Diagram Summary
 
@@ -447,7 +447,7 @@ This diagram shows what happens from the moment a packet arrives on the network 
 
 This diagram covers the management side of the system — what the admin can do, how fingerprint models are trained, and how ESP32 nodes are monitored.
 
-![BF-IDS sequence diagram part 2](docs/assets/sequence_diagram_part2.png)
+![BF-IDS sequence diagram part 2](assets/sequence_diagram_part2.png)
 
 ### Diagram Summary
 
@@ -465,7 +465,7 @@ This diagram covers the management side of the system — what the admin can do,
 
 This diagram shows how the Behavioral Fingerprint Engine processes each device's traffic internally, including the learning phase for new devices and the deviation scoring phase for known devices.
 
-![BF-IDS fingerprint engine diagram](docs/assets/fingerprint_engine_diagram.png)
+![BF-IDS fingerprint engine diagram](assets/fingerprint_engine_diagram.png)
 
 ### Diagram Summary
 
